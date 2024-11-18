@@ -8,4 +8,6 @@
 
 To stop the server, press CTRL+C
 
+random git check
+
 If you get stuck, checkout the [troubleshooting readme](../troubleshooting/README.md)
